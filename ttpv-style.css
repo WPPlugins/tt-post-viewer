@@ -1,0 +1,68 @@
+/*================================
+ *styling for shortocode area
+=================================*/
+
+.entry-content .shortcode-area{ margin: 0; padding: 0; }
+.entry-content .shortcode-area h2{ margin: 0 0 20px 0; padding: 0; }
+.entry-content .shortcode-area ul{ margin: 0; padding: 0; }
+
+.entry-content .shortcode-area ul li{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: block;
+}
+
+.shortcode-thumb{
+    width: auto;
+    height: auto;
+    display: inline-block;
+    margin: 0 10px 0 0;
+}
+.shortcode-title{
+    width: 65%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.entry-content .shortcode-title h2{
+    font-size: 16px;
+}
+
+.shortcode-title a{
+    text-decoration: none;
+    font-weight: bold;
+}
+.shortcode-title a#more{
+    text-decoration: none;
+    font-weight: normal;
+}
+
+
+.entry-content .relatedposts ul{ list-style: none; margin: 0; padding: 0;}
+
+
+
+
+/*================================
+ *Styling for sidebar area
+==================================*/
+
+.sidebar-thumb{
+    width: auto;
+    margin-right: 12px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.sidebar-thumb-title{
+    position: relative;
+    width: 100%;
+    display: inline-block;
+    vertical-align: top;
+    line-height: 18px;
+}
+
+.sidebar-thumb-title#thmb{
+    width: 65%;
+}

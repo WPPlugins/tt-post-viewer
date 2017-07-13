@@ -1,0 +1,64 @@
+.inside .form-table{
+    box-shadow: 0 0 2px rgba(0,0,0,0.2);
+    font-family: "Arial";    
+}
+
+.form-table select, .form-table input{
+    font-size: 12px;
+}
+
+.form-table tr{
+    
+    display: inline-block;
+    padding-right: 0;
+    margin-right: 10px;
+    margin-left:  0;
+
+}
+
+.form-table th{
+    width: 95px;
+    padding: 15px 0 10px 5px;
+    text-align: left;
+    font-size: 12px;
+    
+
+}
+.form-table th div{
+    text-align: right;
+}
+
+.form-table th .recentpost-widget, .form-table th .recentpost-shortcode,
+.form-table th .recentpost-bopost, .form-table th .recentpost-bydate{
+
+}
+
+.form-table td{
+    padding-left: 5px;
+    padding-right: 0;
+
+}
+
+th .recentpost-widget, th .recentpost-shortcode, th .recentpost-bopost,
+th .mostpopular-widget, th .mostpopular-shortcode, th .mostpopular-bopost,
+th .mostcommented-widget, th .mostcommented-shortcode, th .mostcommented-bopost,
+th .related-widget, th .related-shortcode, th .related-bopost,
+th .featured-widget, th .featured-shortcode, th .featured-bopost,
+th .authors-widget, th .authors-shortcode, th .authors-bopost,
+th .category-widget, th .category-shortcode, th .category-bopost,
+th .bydate-widget, th .bydate-shortcode, th .bydate-bopost {
+    margin-top: 3px;
+}
+
+
+.form-table th .recentpost-author, .form-table th .recentpost-category{
+    border: 1px solid #000000;
+}
+
+.metabox-holder h3 span{
+    font-family: "Arial";
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
